@@ -1,5 +1,5 @@
 - 👋 Hi, I’m OLAITAN Kamaldeen Raji
-- 👀 I’m interested in Front End Develormet
+- 👀 Front End Develormet
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  on WhatsApp wa.me/2348160746670

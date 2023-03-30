@@ -2,7 +2,7 @@
 - 👀 Front End Development using React and Vue js
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  on WhatsApp wa.me/2348160746670
+- 📫 How to reach me  on WhatsApp https://wa.me/2348160746670
 or call +2348160746670, +2347052103801
 
 <!---

@@ -2,7 +2,7 @@
 - 👀 Software Engineer
 - 🌱 Always learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  on WhatsApp https://wa.me/2348160746670
+- 📫 How to reach me  on WhatsApp https://wa.me/2348160746670 
 or call +2348160746670, +2347052103801
 
 <!---

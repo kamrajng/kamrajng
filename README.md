@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kamrajng)](https://git.io/streak-stats)
+
 - 👋 Hi, I’m OLAITAN Kamaldeen Raji
 - 👀 Software Engineer
 - 🌱 Always learning

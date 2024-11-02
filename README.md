@@ -10,6 +10,10 @@
 or call +2348160746670, +2347052103801
 --->
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Kamrajng&label=Profile%20Views&icon=0&pretty=false" />
+</a>
+
 # 💫 About Me:
 - 👋 Hi, I’m OLAITAN Kamaldeen Raji<br>- 👀 Software Engineer<br>- 🌱 Always learning<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me  on WhatsApp https://wa.me/2348160746670 <br>or call +2348160746670, +2347052103801
 
